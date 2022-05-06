@@ -1,3 +1,5 @@
+<h2 align="center">Adding a Dracula Theme</h2>
+
 <h1 align="center">
   <img src="https://cdn.discordapp.com/attachments/939379020808720444/971892878206976020/LogoBanner.jpg">
   <br>
